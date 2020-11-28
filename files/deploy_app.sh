@@ -9,8 +9,8 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://cloudstrikers.wordpress.com"</img></center>
-  <center><h2>cloudstrikers World!</h2></center>
+  <center><img src="https://spark.adobe.com/post/reODhfoqeRTeG/"</img></center>
+  <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. bujujiya
   <!-- END -->
 

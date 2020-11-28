@@ -10,7 +10,7 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="https://cloudstrikers.wordpress.com"</img></center>
-  <center><h2>Meow World!</h2></center>
+  <center><h2>cloudstrikers World!</h2></center>
   Welcome to ${PREFIX}'s app. bujujiya
   <!-- END -->
 
